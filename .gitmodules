@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = https://github.com/Ismartba/ismartba.github.io.git
+	branch = main
